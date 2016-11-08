@@ -1,2 +1,3 @@
 server:
   port: 7005
+name: server
